@@ -1,0 +1,7 @@
+LTM interview questions:
+
+1) What is RAG?
+2) If you have top_k=3, how are you going to handle this in RAG sys?
+3) Suppose you have 3 depts namely, HR, Marketing, FInance, how are you going to make the agents for these and make sure they cant view each otehrs docs?
+4) Have you worked on ML modelling?
+5) How are you going to make the prompt engineering fine tuned?
