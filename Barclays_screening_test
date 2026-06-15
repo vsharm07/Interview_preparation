@@ -1,0 +1,98 @@
+1. Few-shot Prompting
+
+In prompt engineering, what does the "few-shot" technique refer to?
+
+2. Amazon Bedrock & Foundation Models
+
+Which of the following combinations best describes the relationship between AWS Bedrock and foundation models?
+
+3. Bias in LLMs
+
+You're developing a large-scale language model application using AWS Bedrock. During testing, you notice that the model occasionally produces responses that could be considered politically biased. Which of the following approaches would be most effective in addressing this issue?
+
+4. Gradient Accumulation
+
+You're working on fine-tuning a large language model for a specific task. Which of the following code snippets demonstrates the correct use of gradient accumulation to optimize memory usage during training?
+
+5. Parameter-Efficient Fine-Tuning
+
+When fine-tuning a Transformer model for a specific task on Amazon Bedrock, what would be the most efficient way to adapt the model without retraining all layers?
+
+6. Hallucination Reduction
+
+What are three commonly used methods to reduce hallucination in LLM-based generative AI applications?
+
+7. AWS Service for ML Models
+
+Which AWS service is specifically designed for building, training, and deploying machine learning models?
+
+8. LLM Guardrails
+
+Which of the following is NOT a valid approach for implementing ethical guardrails in LLMs?
+
+9. Purpose of Amazon Bedrock
+
+What is the primary purpose of Amazon Bedrock in the context of generative AI?
+
+10. RAG Risk
+
+In generative AI, what is one key risk associated with integrating retrieval-augmented generation (RAG) with large language models?
+
+11. Bedrock Multi-Modal Integration
+
+In Amazon Bedrock, how would you integrate a proprietary model with Bedrock's pre-trained foundation models for a complex multi-modal task (e.g., image captioning with custom vocabulary)?
+
+12. Prompt for Data Analysis
+
+You need to design a prompt for an LLM to perform a complex multi-step task involving data analysis and recommendation generation. Which of the following prompts is most likely to yield the best results?
+
+13. Risks of LLMs in Production
+
+What is one of the main risks of using large language models in production, particularly in generative AI applications?
+
+14. Highest-Cost Scenario
+
+Which of the following scenarios would likely result in the HIGHEST cost when using LLMs?
+
+15. Caching & Optimization
+
+In the context of caching and optimization for LLM applications, which of the following statements are true?
+
+16. Cost Optimization
+
+Which are effective strategies for cost optimization when using LLMs?
+
+17. Multi-Lingual Chatbot on Amazon Bedrock
+
+You are developing a multi-lingual chatbot using a large language model (LLM) deployed on Amazon Bedrock. The chatbot needs to:
+
+Handle inquiries in multiple languages.
+Generate highly relevant and culturally sensitive responses.
+Operate efficiently within a limited budget by minimizing computation costs.
+
+After initial testing, you find that the model:
+
+Occasionally generates culturally inappropriate responses in certain languages.
+Consumes too many resources due to the model's size and complexity, impacting scalability.
+
+Given these requirements and challenges, which of the following strategies is most effective in meeting your goals while staying cost-effective on Amazon Bedrock?
+
+18. Pre-trained LLMs
+
+Which of the following is NOT an advantage of using pre-trained LLMs in generative AI applications?
+
+19. Chain-of-Thought Prompting
+
+In advanced prompt engineering, what does the "chain-of-thought" technique primarily aim to achieve?
+
+20. Translation Prompt Technique
+
+Consider the following prompt for an LLM:
+
+"Translate the following English text to French. Provide a word-for-word translation, followed by a more natural translation. English: 'The early bird catches the worm.' Word-for-word translation: ... Natural translation: ..."
+
+What prompt engineering technique is being used here?
+
+21. Unsafe Prompt Risks
+
+What are potential risks associated with using LLMs without proper guardrails?
