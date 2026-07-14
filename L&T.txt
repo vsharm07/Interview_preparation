@@ -1,0 +1,4 @@
+* Why should your project be on the Gen AI?
+* If the model is hallucinating, how can you fix it?
+* Write and implement the RAG system on paper?
+* How did you deploy in the AWS?
