@@ -2,3 +2,5 @@
 * If the model is hallucinating, how can you fix it?
 * Write and implement the RAG system on paper?
 * How did you deploy in the AWS?
+* What is temperature and top-p?
+
