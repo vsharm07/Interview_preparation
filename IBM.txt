@@ -3,3 +3,4 @@ what is top_p
 Why wont you give the LLM a lot of context like 100.
 precision@K and recall@k
 What are the must things should be incorporated in the RAG system
+What is anamoly agent in the project?
