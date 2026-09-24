@@ -2,3 +2,4 @@ If the LLM is not giving correct answer, even when the chunk is present in the Q
 what is top_p
 Why wont you give the LLM a lot of context like 100.
 precision@K and recall@k
+What are the must things should be incorporated in the RAG system
